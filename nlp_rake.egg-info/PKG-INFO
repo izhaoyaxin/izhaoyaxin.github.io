@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: nlp-rake
+Version: 1.0
+Summary: Rapid Automatic Keyword Extraction (RAKE) algorithm
+Home-page: https://www.python.org/sigs/distutils-sig/
+Author: zelandiya, aneesha
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: A Python implementation of the Rapid Automatic Keyword Extraction (RAKE) algorithm as described in: Rose, S., Engel, D., Cramer, N., & Cowley, W. (2010). Automatic Keyword Extraction from Individual Documents. In M. W. Berry & J. Kogan (Eds.), Text Mining: Theory and Applications: John Wiley & Sons.
+Platform: UNKNOWN
